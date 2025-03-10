@@ -1,6 +1,6 @@
 ## Hi there 👋
 **Graduate Software Engineer with a Master’s   degree in  Data Science and Machine Learning, skilled in various programming languages. Adept at leveraging CRISP-DM methodology for data-driven projects and building predictive models for real-world applications. Passionate about AI, NLP, and big data technologies, with strong problem-solving and analytical skills. Seeking to apply expertise in software engineering and data science to drive impactful solutions**.
-
+- 🔭 I’m currently working on ...
 <!--
 **Franklyn-SWE/Franklyn-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
