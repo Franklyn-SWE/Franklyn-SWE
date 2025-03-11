@@ -1,7 +1,7 @@
 ## Summary
 
 *Graduate Software Engineer with a Master’s   degree in  Data Science and Machine Learning, skilled in various programming languages. Adept at leveraging CRISP-DM methodology for data-driven projects and building predictive models for real-world applications. Passionate about AI, NLP, and big data technologies, with strong problem-solving and analytical skills. Seeking to apply expertise in software engineering and data science to drive impactful solutions*.
-
+![Email](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Hyde!%20%E2%9C%A8%20An%20accessible,%20open-source%20markdown%20editor%20for%20any%20user%20E2%9C%A8%20https://
 <!--
 **Franklyn-SWE/Franklyn-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
