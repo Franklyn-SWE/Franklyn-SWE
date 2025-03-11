@@ -1,11 +1,12 @@
-## -- - 📫 You can reach me: [PORTFOLIO](https://franklyn-swe.github.io/portfolio/)
- - 📫 You can reach me: [olihafosa@gmail.com](mailto:olihafosa@gmail.com)
+## ABOUT ME
 
 *Graduate Software Engineer with a Master’s   degree in  Data Science and Machine Learning, skilled in various programming languages. Adept at leveraging CRISP-DM methodology for data-driven projects and building predictive models for real-world applications. Passionate about AI, NLP, and big data technologies, with strong problem-solving and analytical skills. Seeking to apply expertise in software engineering and data science to drive impactful solutions*.
 
 <!--
 **Franklyn-SWE/Franklyn-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[PORTFOLIO](https://franklyn-swe.github.io/portfolio/)
+- 📫 You can reach me: [olihafosa@gmail.com](mailto:olihafosa@gmail.com)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
