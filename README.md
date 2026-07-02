@@ -1,5 +1,5 @@
 ## Summary 👋
-*A British graduate software engineer with a master’s in Data Science and Machine Learning, skilled in various programming languages. Adept at leveraging CRISP-DM methodology for data-driven projects and building predictive models for real-world applications. Passionate about AI, NLP, and big data technologies, with strong problem-solving and analytical skills. Seeking to apply expertise in software engineering and data science to drive impactful solutions.*
+*Software Engineer and AI Engineer with expertise in building scalable web applications, intelligent systems, and machine learning solutions. MSc in Data Science & Machine Learning with a First-Class degree in Software Engineering. Passionate about transforming complex business problems into production-ready AI products using Python, FastAPI, React, PostgreSQL, cloud technologies, and modern software engineering practices. Founder of MudiaTech, where I build innovative AI-driven solutions across software, data, and automation*
 
 <!--
 **Franklyn-SWE/Franklyn-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
