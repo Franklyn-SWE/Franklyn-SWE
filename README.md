@@ -1,5 +1,5 @@
 ## Summary 👋
-*Software Engineer and AI Engineer with expertise in building scalable web applications, intelligent systems, and machine learning solutions. MSc in Data Science & Machine Learning with a First-Class degree in Software Engineering. Passionate about transforming complex business problems into production-ready AI products using Python, FastAPI, React, PostgreSQL, cloud technologies, and modern software engineering practices. Founder of MudiaTech, where I build innovative AI-driven solutions across software, data, and automation*
+*Software Engineer, Data Scientist and AI Engineer with expertise in building scalable web applications, intelligent systems, and machine learning solutions. MSc in Data Science & Machine Learning (Distinction) with a First-Class degree in Software Engineering. Passionate about transforming complex business problems into production-ready AI products using Python, FastAPI, React, PostgreSQL, cloud technologies, and modern software engineering practices. Founder of MudiaTech, where I build innovative AI-driven solutions across software, data, and automation*
 
 <!--
 **Franklyn-SWE/Franklyn-SWE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
